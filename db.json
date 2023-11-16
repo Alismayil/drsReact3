@@ -1,0 +1,34 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "trendyolss": [
+      { "id": 1,
+      "image":"https://bazarstore.az/cdn/shop/products/30149872_10fab918-03e4-48d0-a83c-c4ba7a47161c.jpg?v=1693268044",
+       "product": "qenfet",
+        "price": 100
+     },
+     { "id": 2,
+     "image":"https://www.tradeinn.com/f/13843/138437793/nokia-105-1.8-mobile-phone.jpg",
+      "product": "tuflon",
+       "price": 10000000000
+    },
+    { "id": 3,
+    "image":"https://cdn.ferrari.com/cms/network/media/img/resize/5d1f10968a2538547edce275-m-dinamica-2400x4350-040719?width=768&height=1024",
+     "product": "araba",
+      "price": 1
+   },
+   { "id": 4,
+   "image":"https://store.blaser.de/media/71/33/15/1677670483/231021-112_566-Blaser-Herren-Hoody-23_Produktbild_4000x4000px_01.jpeg",
+    "product": "qofta",
+     "price": 100000
+  },
+  { "id": 5,
+  "image":"https://www.collinsdictionary.com/images/full/goose_326040776.jpg",
+   "product": "ordek",
+    "price": 10000000000000000000
+ }
+
+    ],
+    "profile": { "name": "typicode" }
+  }

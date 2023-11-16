@@ -1,0 +1,28 @@
+
+.trendyol{
+    display: flex;
+justify-content: center;
+
+}
+.card{
+    border: 1px solid black;
+    width: 200px;
+    height: 280px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.card img{
+    max-width: 100px;
+    margin-left: 50px;
+}
+.card:hover{
+    background-color: grey;
+    color: white;
+}
+
+.load {
+    height: 100vh;
+    font-size: 85px;
+    display: grid;
+    place-items: center;
+}
